@@ -1,0 +1,9 @@
+_le state : Permet de garder les informations specifiaue a un composant
+           utilisees useState pour creer un state dans une fonction 
+
+useState est un hook qui permet d'ajouter le state local React a des composants fonctions
+un hook es tune fonction qui permet de se brancher sur des fonctionnalites react 
+
+_ il existe deux types de formulaires :
+      @formulaire controlee et formulaire non controlee
+      les formulasires controlee sont les plus utilisees en react 
